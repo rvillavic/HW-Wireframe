@@ -1,0 +1,122 @@
+	
+	#html, body {
+		
+	background: #777;
+	height: 100%;
+}
+
+	#header {
+
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 18px;
+    width: 960px;
+    padding: 25px;
+    margin: 20px;
+}
+
+
+	#nav {
+	
+	background-color: #ebebeb;
+	text-align: center;
+	font-family: "Calibri";
+	font-size: 18px;
+	width: 960px;
+    padding: 25px;
+    margin: 20px;
+	
+	}
+
+	#section {
+	
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 18px;
+    height: 270px;
+    width: 495px;
+    padding: 40px;
+    margin: 20px;
+    margin-top: 0px;
+    float: left;
+}
+
+	#article {
+    
+    background-color: #777;
+    color: white;
+    text-align: center;
+    font-family: "Calibri";
+    position: fixed;
+    font-size: 18px;
+    height: 145px;
+    width: 410px;
+    padding: 40px;
+    margin: 60px;
+    margin-top: 105px;
+    float: left;
+    
+	}
+
+	#h1 {
+	
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: "Calibri";
+    position: fixed;
+    font-size: 10px;
+    height: 52px;
+    width: 400px;
+    top: 295px;
+    margin: 105px;
+}
+
+	#p {
+	
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+    font-family: "Calibri";
+    position: fixed;
+    height: 52px;
+    width: 400px;
+    top: 360px;
+    margin: 105px;
+}
+
+	#aside {
+	
+	background-color: #ebebeb;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 18px;
+    height: 270px;
+    width: 312px;
+    padding: 40px;
+    margin: 20px;
+    margin-top: 0px;
+    float: left;
+}
+
+	#footer {
+	
+    background-color: #ebebeb;
+    text-align: center;
+    font-family: "Calibri";
+    font-size: 18px;
+    position: fixed;
+    height: 30px;
+    top: 555px;
+    width: 960px;
+    padding: 25px;
+    margin: 20px;
+}
+
+	#clearfix {
+  	
+  	overflow: auto;
+
+}
